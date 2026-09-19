@@ -1,1 +1,7 @@
-window.SHOP_CONFIG={name:"SHOP",supabaseUrl:"PASTE_YOUR_SUPABASE_URL",supabaseAnonKey:"PASTE_YOUR_SUPABASE_ANON_KEY",currencySymbol:"₹",maxDeliveryKm:10};
+window.SHOP_CONFIG = {
+  name: "SHOP",
+  supabaseUrl: "YOUR_SUPABASE_PROJECT_URL",
+  supabaseAnonKey: "YOUR_SUPABASE_ANON_KEY",
+  currencySymbol: "₹",
+  maxDeliveryKm: 10
+};
