@@ -1,0 +1,1 @@
+import {createClient} from "https://esm.sh/@supabase/supabase-js@2";const c=window.SHOP_CONFIG;export const supabase=createClient(c.supabaseUrl,c.supabaseAnonKey,{auth:{persistSession:true,autoRefreshToken:true,detectSessionInUrl:true}});
